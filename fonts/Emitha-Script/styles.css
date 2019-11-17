@@ -1,0 +1,8 @@
+
+@font-face {
+  font-family: 'Emitha-Script';
+  src: url('Emitha-Script.eot?#iefix') format('embedded-opentype'),  url('Emitha-Script.otf')  format('opentype'),
+	     url('Emitha-Script.woff') format('woff'), url('Emitha-Script.ttf')  format('truetype'), url('Emitha-Script.svg#Emitha-Script') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
